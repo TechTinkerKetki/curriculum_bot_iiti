@@ -44,7 +44,8 @@ generates **grounded answers** strictly based on retrieved content.
 4. Provide your Gemini API key when prompted
 5. Run the notebooks sequentially:
 
-   ## Scope and Future Extensions
+ ---
+ ## Scope and Future Extensions
 
 - Extend the system to include **curriculum documents from all branches**
 (Mechanical, Electrical, Civil, etc.)
